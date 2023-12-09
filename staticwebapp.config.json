@@ -1,4 +1,7 @@
 
 {
-  "apiRuntime" : 18
+  "platform": {
+    "apiRuntime": "node:18"
+  }
+  
 }
